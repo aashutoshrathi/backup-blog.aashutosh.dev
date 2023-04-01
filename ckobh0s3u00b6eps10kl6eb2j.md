@@ -1,4 +1,13 @@
-# Own your Setup for Side Projects
+---
+title: "Own your Setup for Side Projects"
+seoTitle: "Deploy Side Projects on EC2 [GUIDE]"
+seoDescription: "Roll your VM with all your side project running on custom domains with SSL (includes setting up nginx & certbot setup)"
+datePublished: Sat May 01 2021 13:01:17 GMT+0000 (Coordinated Universal Time)
+cuid: ckobh0s3u00b6eps10kl6eb2j
+slug: cloud-vm-setup
+tags: dns, ssl, aws, nginx, nodejs
+
+---
 
 Let's start by talking about side projects, we all start them and some of us finish a few too 😛. But most of the side projects are for fun/PoC and end up getting deployed on free services like Heroku/Glitch for backend or Vercel/Netlify for frontend.
 
