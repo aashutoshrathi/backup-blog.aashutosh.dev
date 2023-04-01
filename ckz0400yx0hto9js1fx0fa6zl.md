@@ -1,4 +1,14 @@
-# Multi-Client & Sentinel Redis Setup with NestJS
+---
+title: "Multi-Client & Sentinel Redis Setup with NestJS"
+seoTitle: "Multi-Client & Sentinel Redis Setup with NestJS"
+seoDescription: "Setup Multi-Sentinel Multi-client Redis connections with NestJS"
+datePublished: Sat Jan 29 2022 17:29:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckz0400yx0hto9js1fx0fa6zl
+slug: multi-client-and-sentinel-redis-setup-with-nestjs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643477341099/VvuNNrh7I.png
+tags: redis, typescript, nest
+
+---
 
 There's already a package out there [nestjs-redis](https://github.com/skunight/nestjs-redis), it is a wrapper around [ioredis](https://www.npmjs.com/package/ioredis) and quite easy to use.
 
