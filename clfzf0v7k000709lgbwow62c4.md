@@ -9,7 +9,6 @@ tags: ai, news, technology, newsletter, gpt-3
 
 ---
 
-  
 👋🏻 Hola! Welcome to the #1 edition of Nibble.
 
 Let's make sure we have our seatbelts on, this is gonna be a long & overwhelmingly distracting ride. 🎢
@@ -98,7 +97,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     ```
     
 * ***Do you know how the "auto-adjust backlit brightness"*** ⌨️ ***works?***  
-    this story goes long back (*jk, barely 3 years*) to my undergrad days, I used to think that nothing is gonna stop me once I get a device with a backlit keyboard as I can then type like [ThePrimeagen](https://www.twitch.tv/ThePrimeagen) even in the darkest to the times.
+    this story goes long back (*jk, barely 3 years*) to my undergrad days, I used to think that "nothing was gonna stop me once I got a device with a backlit keyboard", as I can then type like [ThePrimeagen](https://www.twitch.tv/ThePrimeagen) even in the darkest of times.
     
     ![Apple Keyboard Settings](https://cdn.hashnode.com/res/hashnode/image/upload/v1680427701020/a1d05580-8025-45fe-8cfc-f1f6f2f01d6d.png align="center")
     
@@ -159,7 +158,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
 ### Note
 
 Look! this might have been a long one, but trust me when I say this, I *held back from sharing more links*, as it might be redundant for folks who read other newsletters too. 😅  
-Also, yes I remember telling you it'll be *4 sections and a quick read* 🫠, but I think we can't make it smaller, if weekly is the frequency we choose. And regarding the shrinking down the sections, I'll work on it in the coming editions.
+Also, yes I remember telling you it'll be *4 sections and a quick read* 🫠, but I think we can't make it smaller if weekly is the frequency we choose. And regarding the shrinking down the sections, I'll work on it in the coming editions.
 
 **On the same note**, I think this one should keep you occupied for a week and a half, as I'll be taking <s>some time off-screen</s>, touching grass ⛵️ for *a week* exploring 🎒 the beautiful *North Eastern part of India* 🇮🇳
 
