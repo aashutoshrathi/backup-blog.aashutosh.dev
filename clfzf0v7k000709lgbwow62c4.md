@@ -24,7 +24,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     
 * In these [weird AI times](https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing), there is a place where **MS & Google doubles down on bonding**, *yes* you guessed it right, it's when they are building something against Apple, [Nearby Share Beta lands for Windows](https://blog.google/products/android/nearby-share-windows/), making sharing files between Android and Windows ***seamless***.
     
-* 📊 Sequoia released a chart of [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/), talking about the missing automation by AI in SDLC (*NGL, you shouldn't be this direct, let the humans enjoy writing code for a while*)
+* 📊 Sequoia released a chart of [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/), talking about the missing automation by AI in [SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm) (*NGL, you shouldn't be this direct, let the humans enjoy writing code for a while*)
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680433080662/8da61d32-bd41-4525-8bed-3b41803651ea.png align="center")
     
@@ -68,7 +68,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
         
 * [Routines of Creative People](https://podio.com/site/creative-routines), for some reason I know people who have routines very close to **Mr. Kafka** (no, I tol**d** you I won't g**iv**e an**y** nam**es h**ere!)
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680435765234/b5c9ccbb-14c6-4a83-9b0d-b461b40e8b72.png align="center")
+    ![]( align="center")
     
 
 ### Catch up with the tech 🤓
@@ -108,7 +108,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     
 * [Why do you see â€™ instead of an apostrophe](https://www.justinweiss.com/articles/how-to-get-from-theyre-to-theyre/), got a bug at work, where CSVs were behaving <s>like a bad bad boy</s> as they should?
     
-* [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS), yup Denial of Services using Regex, and you are more vulnerable to this than you think you are. On a casual Friday walk to AWS Inspector, while at work I saw a [Medium Vuln with word-wrap](https://security.snyk.io/vuln/SNYK-JS-WORDWRAP-3149973), I quicky dug deeper onto this one and found out it's a dependency of ***eslint*** (*so might be affecting half the world*)*.*  
+* [ReDoS](https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS), yup Denial of Services using Regex, and you are more vulnerable to this than you think you are. On a casual Friday walk to AWS Inspector, while at work I saw a [Medium Vuln with word-wrap](https://security.snyk.io/vuln/SNYK-JS-WORDWRAP-3149973), I quickly dug deeper into this one and found out it's a dependency of ***eslint*** (*so might be affecting half the world*)*.*  
     Proposed a fix for this in [this Pull Request](https://github.com/jonschlinkert/word-wrap/pull/33), basically to *avoid using Regex where things can be done without it*.
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680438076533/3963bcab-2688-43b2-aee6-0945a3695a21.png align="center")
