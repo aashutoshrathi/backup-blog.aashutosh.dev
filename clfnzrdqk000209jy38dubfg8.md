@@ -69,3 +69,6 @@ Well, mostly the plan is to figure out the way, but the main bits will be Tech, 
 Thanks to [Mohit](https://only4.dev) ✨ for helping me convert the logo idea to reality and [Pushkar](https://www.thepushkarp.com/) 🤝 has been helping me push (*as the name suggests*) myself all this time for writing, so, if you don't like a post, go blame him, he might have said "LGTM 👍🏻" before I published.
 
 Godspeed 🖖🏻
+
+You can find the Nibbles here:  
+\- [Nibble #1](https://hashnode.com/post/clfzf0v7k000709lgbwow62c4)
