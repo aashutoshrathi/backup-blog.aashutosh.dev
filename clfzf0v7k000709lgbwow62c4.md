@@ -68,8 +68,8 @@ So, I recommend you bookmark this post, in case you can't go through all of them
         
 * [Routines of Creative People](https://podio.com/site/creative-routines), for some reason I know people who have routines very close to **Mr. Kafka** (no, I tol**d** you I won't g**iv**e an**y** nam**es h**ere!)
     
-    ![]( align="center")
-    
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680448361296/955fe253-6c14-4890-af86-56efe1f4f522.png align="center")
 
 ### Catch up with the tech 🤓
 
@@ -120,7 +120,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     
     ![Pin on Design Memes](https://i.pinimg.com/474x/7c/ae/b8/7caeb8d2e404b301795f86c107c3678a.jpg align="center")
     
-* [Arc for iOS](https://www.theverge.com/2023/3/30/23662130/arc-mobile-browser-hands-on-ios), the new browser for *cool kid****z***, yes it can now be found on [Apple Store](https://apps.apple.com/us/app/arc-mobile-companion/id1669785846) and this will be a big step as one missing piece earlier for cross-device sync. I've been using this since its release, if you are still not in yet, here's an [invite](https://arc.net/gift/9c7b51c0).  
+* [Arc for iOS](https://www.theverge.com/2023/3/30/23662130/arc-mobile-browser-hands-on-ios), the new browser for *cool kid***z**, yes it can now be found on [Apple Store](https://apps.apple.com/us/app/arc-mobile-companion/id1669785846) and this will be a big step as one missing piece earlier for cross-device sync. I've been using this since its release, if you are still not in yet, here's an [invite](https://arc.net/gift/9c7b51c0).  
     Oh! on that note, you might also want to listen to a Stackoverflow Podcast with Arc Team - [**The next-gen web browser has no tabs, only spaces (Ep. 549)**](https://stackoverflow.blog/2023/03/28/the-next-gen-web-browser-has-no-tabs-only-spaces-ep-549/)
     
 * [**Regex.ai**](https://regex.ai/)**,** AI-Powered Regular Expression Solver. (*yup! just marked one more skill as irrelevant on my resume*)
@@ -147,7 +147,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
 
 (*this section is to share informative things I read, not a fin-fluencer,* ***<s>yet!!</s>****, so go do your research before trading based on things you read on the internet*)
 
-* [Tata Technologies IPO Breakdown](https://www.youtube.com/watch?v=Dyo8915RzUU), no doubt this is one of the most exciting IPO coming up, and if you are by any chance like me scarred by [LIC](https://economictimes.indiatimes.com/prime/money-and-markets/a-30-fall-since-listing-how-lics-ipo-became-indias-biggest-wealth-destroyer/primearticleshow/92212792.cms) (\*sad crying noises\*)
+* [Tata Technologies IPO Breakdown](https://www.youtube.com/watch?v=Dyo8915RzUU), no doubt this is one of the most exciting IPO coming up, and if you are by any chance like me scarred by [LIC](https://economictimes.indiatimes.com/prime/money-and-markets/a-30-fall-since-listing-how-lics-ipo-became-indias-biggest-wealth-destroyer/primearticleshow/92212792.cms) (\*sad crying noises\*), you should give it a try.
     
 
 ### A quote that got me thinking
@@ -160,7 +160,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
 Look! this might have been a long one, but trust me when I say this, I *held back from sharing more links*, as it might be redundant for folks who read other newsletters too. 😅  
 Also, yes I remember telling you it'll be *4 sections and a quick read* 🫠, but I think we can't make it smaller if weekly is the frequency we choose. And regarding the shrinking down the sections, I'll work on it in the coming editions.
 
-**On the same note**, I think this one should keep you occupied for a week and a half, as I'll be taking <s>some time off-screen</s>, touching grass ⛵️ for *a week* exploring 🎒 the beautiful *North Eastern part of India* 🇮🇳
+**On the same note**, I think this one should keep you occupied for a week and a half, as I'll be <s>taking some time off-screen</s>, touching grass ⛵️ for *a week* exploring 🎒 the beautiful *North Eastern part of India* 🇮🇳
 
 #### **Where do we stand in the year** powered by [Year Progress Bot](https://twitter.com/year_progress/status/1642406532556943360?t=YKFDLRU9TG9gqay_xLmmAQ&s=19)
 
