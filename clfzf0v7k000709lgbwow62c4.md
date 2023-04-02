@@ -9,7 +9,8 @@ tags: ai, news, technology, newsletter, gpt-3
 
 ---
 
-👋🏻 Hola! Welcome to the #1 edition of Nibbles.
+  
+👋🏻 Hola! Welcome to the #1 edition of Nibble.
 
 Let's make sure we have our seatbelts on, this is gonna be a long & overwhelmingly distracting ride. 🎢
 
