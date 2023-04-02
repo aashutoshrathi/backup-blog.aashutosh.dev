@@ -11,8 +11,8 @@ tags: ai, news, technology, newsletter, gpt-3
 
 👋🏻 Hola! Welcome to the #1 edition of Nibbles.
 
-Let's make sure we have our seatbelts on, this is gonna be a long & overwhelmingly distracting ride. 🎢  
-  
+Let's make sure we have our seatbelts on, this is gonna be a long & overwhelmingly distracting ride. 🎢
+
 ⚠️ **Warning:** it's more like an octet (*instead of a nibble*) now!  
 So, I recommend you bookmark this post, in case you can't go through all of them at once.
 
@@ -24,7 +24,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     
 * In these [weird AI times](https://www.theverge.com/2023/2/7/23587767/microsoft-google-open-ai-battle-search-bing), there is a place where **MS & Google doubles down on bonding**, *yes* you guessed it right, it's when they are building something against Apple, [Nearby Share Beta lands for Windows](https://blog.google/products/android/nearby-share-windows/), making sharing files between Android and Windows ***seamless***.
     
-* 📊 Sequoia released a chart of [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/), talking about the missing automation by AI in \[SDLC\](https://aws.amazon.com/what-is/sdlc/#:~:text=The%20software%20development%20lifecycle%20(SDLC,expectations%20during%20production%20and%20beyond.) (*NGL, you shouldn't be this direct, let the humans enjoy writing code for a while*)
+* 📊 Sequoia released a chart of [Developer Tools 2.0](https://www.sequoiacap.com/article/ai-powered-developer-tools/), talking about the missing automation by AI in SDLC (*NGL, you shouldn't be this direct, let the humans enjoy writing code for a while*)
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680433080662/8da61d32-bd41-4525-8bed-3b41803651ea.png align="center")
     
@@ -32,7 +32,7 @@ So, I recommend you bookmark this post, in case you can't go through all of them
     
 * 📈 In the times, when you wake up daily with *layoffs news in Tech*, you should seriously check out [**Eight Graphs That Explain Software Engineering Salaries in 2023**](https://spectrum.ieee.org/software-salaries-2023) (*TLDR; you are doing fine, don't push it.*)
     
-* 🤖 Databricks launched [**Dolly**](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)**,** they trained on open-source LLM\*\*,\*\* trained it for 30 minutes on a single machine, with small but quality data, and got a surprisingly good output in performing tasks.
+* 🤖 Databricks launched [**Dolly**](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)**,** they trained on open-source LLM, trained it for 30 minutes on a single machine, with small but quality data, and got a surprisingly good output in performing tasks.
     
 * Elon open-sourced "[The Algorithm](https://github.com/twitter/the-algorithm)", and some people built a [visualizer](https://twitter-algorithm.vercel.app/) for it too (*not sure if the visualizer is correct, but people are all over the repo*)
     
