@@ -3,7 +3,8 @@ title: "Introducing Nibble!"
 seoTitle: "Nibble #0 | aashutosh.dev"
 datePublished: Sat Mar 25 2023 13:12:47 GMT+0000 (Coordinated Universal Time)
 cuid: clfnzrdqk000209jy38dubfg8
-slug: introducing-nibble
+slug: nibble0
+canonical: https://blog.aashutosh.dev/introducing-nibble
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679749643256/0892e930-9303-4c4a-b32b-016d79bb641a.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679750106231/b6d01ed3-6b85-456b-8b26-ddd4e57e88fb.png
 tags: javascript, development
