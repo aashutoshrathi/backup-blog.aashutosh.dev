@@ -72,5 +72,4 @@ Thanks to [Mohit](https://only4.dev) ✨ for helping me convert the logo idea to
 Godspeed 🖖🏻
 
 You can find the Nibbles here:  
-\- [Nibble #1](https://blog.aashutosh.dev/nibble-1)  
-\- [Nibble #2](https://blog.aashutosh.dev/nibble-1)
+**\-** [**Nibble #1**](https://blog.aashutosh.dev/nibble-1)**\-** [**Nibble #2**](https://blog.aashutosh.dev/nibble-2)**\-** [**Nibble #3**](https://blog.aashutosh.dev/nibble-3)**\-** [**Nibble #4**](https://blog.aashutosh.dev/nibble-4)**\-** [**Nibble #5**](https://blog.aashutosh.dev/nibble-5)
