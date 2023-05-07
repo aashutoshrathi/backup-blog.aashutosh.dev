@@ -12,6 +12,8 @@ tags: ai, microservices, javascript, data-science, databases
 🙏🏻 Namaste!  
 Welcome to the #6 edition of Nibble.
 
+The new Nibbles are now moved to [https://thenibble.substack.com/](https://thenibble.substack.com/)
+
 We tweaked the banner a bit to make `1001` it more visible and also, and the `0`s were not nerdy enough, so now they are. 🥂
 
 In our defense, this was a busy and lazy weekend, plus had the content of two Nibbles ready, so might publish the next earlier than expected.
